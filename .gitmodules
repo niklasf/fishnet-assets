@@ -1,3 +1,0 @@
-[submodule "official"]
-	path = official
-	url = https://github.com/official-stockfish/Stockfish.git
