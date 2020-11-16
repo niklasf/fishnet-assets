@@ -23,12 +23,12 @@ Reproducible builds
 -------------------
 
 Following the respective build workflows should produce byte for byte identical
-binaries, assuming `__DATE__`, `g++`, and operating system match.
+binaries, assuming the `__DATE__` macro, `g++` version, and operating system match.
 
-Please file deviations as a bug.
+Please bugs for deviations.
 
 License
 -------
 
 Stockfish is licensed under the GNU General Public License v3.
-See Copying.txt for the full license text.
+See `Copying.txt` for the full license text.
