@@ -25,7 +25,7 @@ Reproducible builds
 Following the respective build workflows should produce byte for byte identical
 binaries, assuming the `__DATE__` macro, `g++` version, and operating system match.
 
-Please bugs for deviations.
+Please report bugs for deviations.
 
 License
 -------
